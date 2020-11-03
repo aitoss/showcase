@@ -32,3 +32,29 @@ Here we are making a template to follow along with us and get the design inspira
 | ------ | ------ |
 | Slack Channel | https://bit.ly/3eg6t5A |
 | Add Showcase as Collaborator | https://youtu.be/p49LRx3hYI8|
+
+***
+
+## NAVBAR & LANDING PAGE
+
+Landing page is the first impression of your portfolio. It's meant to be simple but the at the same time be attractive & elegant.
+Following things will help you in achieving your best landing page:
+
+👉 Navigation Bar :
+   + Keep this simple with 3-4 buttons only. (About, Projects, Skills, Contact)
+   + Add burger menu for small screen sizes with help of Bootstrap.
+   + Small things like height of navbar matter a lot for design. So keep in mind to do it correct.
+   + For more features, try to make it stick at the top and add interactive buttons (See scrollspy in bootstrap)
+
+👉 Homepage:
+   + Keep homepage simple with just your name, photo & introduction.
+   + Add at most 3 buttons for resume download, contact section and skill/projects.
+   + Buttons must lie under your basic description/intro to make the most impact.
+   + For photo you can use your own face or some may prefer using a gif/png that suits your personality.
+   + for more features you can add background effects, such as particles, shapes or icons according to your tech stack.
+
+👉 Sources:
+   + Example 1 : https://shellkore.github.io/
+   + Example 2 : https://kunal-kushwaha.github.io/
+   + Example 3 : http://www.rish.space/
+   + Tutorial : https://www.youtube.com/watch?v=5zkOWf5_lAo (best landing page tutorial)
