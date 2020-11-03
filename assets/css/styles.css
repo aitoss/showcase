@@ -175,8 +175,7 @@ footer {
 }
 
 #homepage .desc {
-  position: relative;
-  top: 100px;
+  margin-top: 100px;
   text-align: left;
 }
 
@@ -201,6 +200,27 @@ footer {
 }
 
 /* Homepage */
+
+/* Skill */
+#skills{
+  margin-top: 15%;
+  padding: 1.5%;
+}
+#skills .heading h1{
+  font-size: 6rem;
+  font-weight: 700;
+  color: rgba(0, 0, 0, 0.08);
+  position: absolute;
+  margin: -60px -15px;
+}
+#skills .heading h2{
+  font-size: 3rem;
+  letter-spacing: 1.6px;
+  color: black;
+  position: absolute;
+  font-weight: 400;
+}
+
 
 
 footer {
