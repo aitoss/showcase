@@ -208,17 +208,38 @@ footer {
 }
 #skills .heading h1{
   font-size: 6rem;
-  font-weight: 700;
+  font-weight: 900;
   color: rgba(0, 0, 0, 0.08);
   position: absolute;
   margin: -60px -15px;
+  letter-spacing: 8px;
 }
 #skills .heading h2{
-  font-size: 3rem;
+  font-size: 2.5rem;
   letter-spacing: 1.6px;
   color: black;
   position: absolute;
   font-weight: 400;
+}
+#skills .row{
+  position: relative;
+  top: 100px;
+  font-family: "Montserrat";
+  font-size: 16px;
+}
+
+#skills .skill-bar{
+   padding: 20px;
+}
+#skills h4{
+  display: inline-block;
+  padding: 2px;
+}
+.skill-bar progress{
+  transform: translateY(10px);
+  border-radius: none;
+  height: 40px;
+  width: 300px;
 }
 
 
