@@ -230,16 +230,16 @@ footer {
 
 #skills .skill-bar{
    padding: 20px;
+   position: relative;
+   bottom: 30px;
 }
 #skills h4{
-  display: inline-block;
   padding: 2px;
+  font-weight: 500;
 }
-.skill-bar progress{
-  transform: translateY(10px);
-  border-radius: none;
-  height: 40px;
+#skills progress{
   width: 300px;
+  height: 30px;
 }
 
 
@@ -250,6 +250,14 @@ footer {
 
 
 /* aman vala section */
+
+
+
+
+#ach{
+  position: relative;
+  top: 100px;
+}
 
 .ach-title {
   font-size: 3rem;
