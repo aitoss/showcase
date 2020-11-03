@@ -12,6 +12,10 @@ header {
   background-color: #24252a;
 }
 
+header .brand-dot {
+  color: aqua;
+}
+
 .logo {
   text-decoration: none;
   color: white;
@@ -39,9 +43,7 @@ header {
 }
 
 .nav__links li {
-  padding: 0px 20px;
-  position: relative;
-  top: 6px;
+  padding: 20px 20px 0px;
 }
 
 .nav__links li a {
@@ -150,7 +152,7 @@ footer {
 
 #homepage {
   padding: 0 10%;
-  margin-top: 100px;
+  margin-top: 200px;
   font-family: "Montserrat";
 }
 
@@ -178,6 +180,16 @@ footer {
   text-align: left;
 }
 
+#homepage p , #homepage a{
+  padding: 10px 0px;
+}
+
+#homepage span{
+  display: inline-block;
+  width: 40%;
+  margin: auto;
+}
+
 @media only screen and (max-width: 600px) {
   #homepage img {
     width: 300px;
@@ -189,3 +201,8 @@ footer {
 }
 
 /* Homepage */
+
+
+footer {
+  margin-top: 300px;
+}
