@@ -247,3 +247,61 @@ footer {
 footer {
   margin-top: 300px;
 }
+
+
+/* aman vala section */
+
+.ach-title {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #0a1f3d;
+}
+
+.ach-item {
+  padding: 0 0 20px 20px;
+  margin-top: -2px;
+  border-left: 2px solid #1f5297;
+  position: relative;
+}
+b
+.ach-item h4 {
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: 600;
+  color: #050d18;
+  margin-bottom: 10px;
+}
+
+.ach-item h5 {
+  font-size: 16px;
+  background: #e4edf9;
+  padding: 5px 15px;
+  display: inline-block;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.ach-item ul {
+  padding-left: 20px;
+}
+
+.ach-item ul li {
+  padding-bottom: 10px;
+}
+
+.ach-item:last-child {
+  padding-bottom: 0;
+}
+
+.ach-item::before {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  border-radius: 50px;
+  left: -9px;
+  top: 0;
+  background: #fff;
+  border: 2px solid #1f5297;
+}
