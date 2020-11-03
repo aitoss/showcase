@@ -206,20 +206,24 @@ footer {
   margin-top: 15%;
   padding: 1.5%;
 }
-#skills .heading h1{
-  font-size: 6rem;
+.achivement{
+  position: relative;
+  top: 150px;
+}
+ .heading h1{
+  font-size: 5rem;
   font-weight: 900;
   color: rgba(0, 0, 0, 0.08);
   position: absolute;
   margin: -60px -15px;
   letter-spacing: 8px;
 }
-#skills .heading h2{
+ .heading h2{
   font-size: 2.5rem;
   letter-spacing: 1.6px;
   color: black;
   position: absolute;
-  font-weight: 400;
+  font-weight: 500;
 }
 #skills .row{
   position: relative;
