@@ -35,7 +35,7 @@ Here we are making a template to follow along with us and get the design inspira
 
 ***
 
-## NAVBAR & LANDING PAGE
+## NAVBAR & LANDING SECTION
 
 Landing page is the first impression of your portfolio. It's meant to be simple but the at the same time be attractive & elegant.
 Following things will help you in achieving your best landing page:
@@ -58,3 +58,22 @@ Following things will help you in achieving your best landing page:
    + Example 2 : https://kunal-kushwaha.github.io/
    + Example 3 : http://www.rish.space/
    + Tutorial : https://www.youtube.com/watch?v=5zkOWf5_lAo (best landing page tutorial)
+   
+   ## SKILL & ACHIEVEMENT SECTION
+     
+  👉 Skill Section :
+   + When it comes ro learning quality matters more than quantity, so keep top three skill in a highlighted way.
+   + The skill section should be aligned with your achievement section(relevant skills)
+   + Keep things to the point and not cluttered.
+   + For more features, try to make it animated with graphs and charts.
+   
+   👉 Achievement Section :
+   + Agiain, like skill section, highlight your top three skills but at the same time mention your worthwhiles achievement
+   + Make font and numbers bigger and bold when it comes to facts, figures and important details
+   + Keep things to the point and not cluttered.
+   + For more features, try to make it like a timeline or gamified UI/UX. 
+   
+   For some design idea, You can also refer to these example portfolios  :smiley: -
+1. https://colorlib.com/preview/#myphotography
+2. https://colorlib.com/preview/#personalportfolio
+3. https://codepen.io/yagoestevez/full/oapQEJ
