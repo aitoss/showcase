@@ -214,9 +214,11 @@ footer {
 /* Homepage */
 
 /* Skill */
+
 #skills{
   margin-top: 15%;
   padding: 1.5%;
+  margin-left: 5px;
 }
 .achivement{
   position: relative;
@@ -258,8 +260,15 @@ footer {
   font-weight: 500;
 }
 #skills progress{
-  width: 300px;
+  width: 35vw;
   height: 30px;
+}
+
+@media only screen and (max-width: 600px) {
+  #skills progress{
+  width: 80vw;
+  height: 30px;
+}
 }
 
 
