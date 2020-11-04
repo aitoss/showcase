@@ -286,6 +286,24 @@ footer {
 }
 
 
+.projectsection{
+
+  margin-top: 150px;
+}
+
+.projectcards{
+  padding: 20px;
+  box-shadow: 4px 4px 2px #eeeff1;
+}
+.projectcards:hover{
+  box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.4);
+}
+
+.card-img-top{
+  margin: 0;
+  padding: 0;
+  height: 200px;
+}
 
 footer {
   margin-top: 300px;
