@@ -137,6 +137,8 @@ header .brand-dot {
   }
 }
 
+
+
 @media only screen and (max-width: 800px) {
   .nav__links,
   .cta {
@@ -146,6 +148,14 @@ header .brand-dot {
     display: initial;
     position: relative;
     top: 6px;
+  }
+  h1{
+    font-size: 30px;
+  }
+  .diplay_picture{
+    display: flex;
+    justify-content: center;
+    text-align: center;
   }
 }
 
