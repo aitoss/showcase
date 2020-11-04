@@ -59,16 +59,16 @@ Following things will help you in achieving your best landing page:
    + Example 3 : http://www.rish.space/
    + Tutorial : https://www.youtube.com/watch?v=5zkOWf5_lAo (best landing page tutorial)
    
-   ## SKILL & ACHIEVEMENT SECTION
+## SKILL & ACHIEVEMENT SECTION
      
   👉 Skill Section :
-   + When it comes ro learning quality matters more than quantity, so keep top three skill in a highlighted way.
+   + When it comes to learning quality matters more than quantity, so keep top three skill in a highlighted way.
    + The skill section should be aligned with your achievement section(relevant skills)
    + Keep things to the point and not cluttered.
    + For more features, try to make it animated with graphs and charts.
    
    👉 Achievement Section :
-   + Agiain, like skill section, highlight your top three, but at the same time mention your worthwhiles achievement
+   + Again, like skill section, highlight your top three, but at the same time mention your worthy achievement
    + Make font and numbers bigger and bold when it comes to facts, figures and important details
    + Keep things to the point and not cluttered.
    + For more features, try to make it like a timeline or gamified UI/UX. 
@@ -77,3 +77,24 @@ Following things will help you in achieving your best landing page:
 1. https://colorlib.com/preview/#myphotography
 2. https://colorlib.com/preview/#personalportfolio
 3. https://codepen.io/yagoestevez/full/oapQEJ
+
+## PROJECTS SECTION
+
+Projects page is very important as it is the only viable representation of your capabilities. Project page should be
+simple with just the right amount of information.
+Following things will help you in achieving your best Projects page:
+
+👉 Projects Card :
+   + Make your project card image as engaging as possible by using relevant GIFs or videos.
+   + Try to include Github link of your project if possible.
+   + Including tech stack used in form of badges is good idea as it gives more information about your skillset.
+   + For more advanced features, you can try animating your cards more and displaying information in creative ways. 
+
+👉 Sources:
+   Some examples of great project card design as listed below, try exploring them as much as possible!
+   + Example 1 : https://codepen.io/hexagoncircle/full/XWbWKwL
+   + Example 2 : https://codepen.io/equinusocio/full/VYWxXy
+   + Example 3 : https://codepen.io/ChynoDeluxe/full/bdXeqQ
+   + Example 4 : https://codepen.io/Madalena-Design/full/KKdmyGb
+   + Example 5 : https://codepen.io/laviperchik/full/Jvbay
+   
