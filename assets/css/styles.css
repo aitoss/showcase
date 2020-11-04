@@ -4,6 +4,8 @@
   padding: 0;
 }
 
+
+
 header {
   display: flex;
   justify-content: flex-end;
@@ -18,15 +20,19 @@ header .brand-dot {
 
 .logo {
   text-decoration: none;
+  font-size: small;
   color: white;
   font-family: sans-serif;
   font-family: "Paytone One", sans-serif;
-  letter-spacing: 1.4px;
+  letter-spacing: 1px;
 }
 
 .logo {
   margin-right: auto;
 }
+
+
+ }
 
 .nav__links {
   list-style: none;
@@ -126,6 +132,9 @@ header .brand-dot {
     top: 15px;
     right: 35px;
   }
+  .logo{
+    font-size: 3px;
+  }
 }
 
 @media only screen and (max-width: 800px) {
@@ -210,6 +219,10 @@ footer {
   position: relative;
   top: 150px;
 }
+.heading{
+  margin-top: 100px;
+  margin-bottom: -23px;
+}
  .heading h1{
   font-size: 5rem;
   font-weight: 900;
@@ -251,5 +264,4 @@ footer {
 footer {
   margin-top: 300px;
 }
-
 
