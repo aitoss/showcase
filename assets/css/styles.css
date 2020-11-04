@@ -152,11 +152,6 @@ header .brand-dot {
   h1{
     font-size: 30px;
   }
-  .diplay_picture{
-    display: flex;
-    justify-content: center;
-    text-align: center;
-  }
 }
 
 footer {
