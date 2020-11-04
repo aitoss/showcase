@@ -32,7 +32,7 @@ header .brand-dot {
 }
 
 
- }
+ 
 
 .nav__links {
   list-style: none;
@@ -132,9 +132,7 @@ header .brand-dot {
     top: 15px;
     right: 35px;
   }
-  .logo{
-    font-size: 3px;
-  }
+ 
 }
 
 
