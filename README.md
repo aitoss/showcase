@@ -68,7 +68,7 @@ Following things will help you in achieving your best landing page:
    + For more features, try to make it animated with graphs and charts.
    
    👉 Achievement Section :
-   + Agiain, like skill section, highlight your top three skills but at the same time mention your worthwhiles achievement
+   + Agiain, like skill section, highlight your top three, but at the same time mention your worthwhiles achievement
    + Make font and numbers bigger and bold when it comes to facts, figures and important details
    + Keep things to the point and not cluttered.
    + For more features, try to make it like a timeline or gamified UI/UX. 
