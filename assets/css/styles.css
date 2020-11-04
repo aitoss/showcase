@@ -4,6 +4,9 @@
   padding: 0;
 }
 
+body{
+  background-color: #ffffff;
+}
 
 
 header {
@@ -218,7 +221,7 @@ footer {
 #skills{
   margin-top: 15%;
   padding: 1.5%;
-  margin-left: 5px;
+ 
 }
 .achivement{
   position: relative;
@@ -227,6 +230,7 @@ footer {
 .heading{
   margin-top: 100px;
   margin-bottom: -23px;
+  margin-left: 55px;
 }
  .heading h1{
   font-size: 5rem;
@@ -252,8 +256,18 @@ footer {
 
 #skills .skill-bar{
    padding: 20px;
+   padding-left: 100px;
    position: relative;
    bottom: 30px;
+}
+
+@media only screen and (max-width: 600px) {
+  #skills .skill-bar{
+   padding: 20px;
+   
+   position: relative;
+   bottom: 30px;
+}
 }
 #skills h4{
   padding: 2px;
