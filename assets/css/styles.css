@@ -431,3 +431,111 @@ a:hover {
 .cp-card .card-right-column .stats div.value.infinity {
   font-size: 2.5rem;
 }
+
+@media only screen and (max-width: 450px) {
+  .card-deck {
+    font-family: Abel, Arial, Verdana, sans-serif !important;
+    overflow: hidden;
+    margin-left: 1.5em;
+  }
+
+  .cp-container {
+    padding-top: 6em;
+    overflow: hidden;
+  }
+  .cp-card {
+    min-height: 33em;
+    min-width: 17em;
+    max-width: 17em;
+    font-family: Abel, Arial, Verdana, sans-serif !important;
+    padding: 1em;
+    /* margin: 1em; */
+    background: linear-gradient(#de685e, #ee786e);
+    border-radius: 1em;
+    text-align: center;
+    padding-left: 4.5em;
+  }
+  .card-left-column {
+    display: flex;
+    padding-top: 1em;
+    width: 10em;
+    flex-direction: column;
+    border: none;
+    padding-bottom: 1em;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.08);
+  }
+
+  .card-left-column img {
+    max-height: 7em;
+    /* min-height: 7em; */
+    max-width: 5em;
+    margin: auto;
+    border-radius: 50%;
+  }
+
+  .card-left-column .badge {
+    color: #fff;
+    font-size: 0.7em;
+    margin: auto;
+    font-weight: 300;
+    background: rgba(0, 0, 0, 0.15);
+    border-radius: 100px;
+    white-space: pre-wrap;
+  }
+
+  .cp-card .card-right-column {
+    color: #fff;
+    padding: 0.5em;
+    width: 80%;
+  }
+
+  .cp-card .card-right-column h4 {
+    text-align: center;
+  }
+
+  .cp-card .card-right-column img {
+    max-width: 10em;
+    min-height: 4em;
+    max-height: 4em;
+    position: absolute;
+    top: 5em;
+  }
+
+  .cp-card .card-right-column .stats {
+    font-size: 1.3rem;
+    display: flex;
+    position: absolute;
+    width: 7em;
+    bottom: 1rem;
+    left: 1rem;
+    right: 1rem;
+    top: 6em;
+    color: #fff;
+  }
+
+  .cp-card .card-right-column .stats > div {
+    flex: 1;
+    text-align: center;
+    margin: 0.4em;
+  }
+
+  .cp-card .card-right-column .stats i {
+    display: block;
+    margin-bottom: 0.5em;
+  }
+
+  .cp-card .card-right-column .stats div.title {
+    font-size: 0.75rem;
+    font-weight: bold;
+  }
+
+  .cp-card .card-right-column .stats div.value {
+    font-size: 1.2rem;
+    font-weight: 700;
+    line-height: 1.5rem;
+  }
+
+  .cp-card .card-right-column .stats div.value.infinity {
+    font-size: 2.5rem;
+  }
+}
