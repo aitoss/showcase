@@ -98,3 +98,19 @@ Following things will help you in achieving your best Projects page:
    + Example 4 : https://codepen.io/Madalena-Design/full/KKdmyGb
    + Example 5 : https://codepen.io/laviperchik/full/Jvbay
    
+## Contact Section
+
+In the contact section you can do two things:
+
+ 👉 First, you can create a contact form and after clicking on the submit button you will receive a mail.
+ 
+ 👉 Second, you can simply add your social-media icons and other details.
+ 
+For making a contact form you can take some inputs like Name, Email/Phone and the message.
+For the same you can take reference from:
+   +  https://codepen.io/see8ch/pen/KpLrd
+   +  https://codepen.io/leenalavanya/pen/mPWdPZ
+
+And second thing which you can do is to add your social media icons in your contact section like:
+   +  https://codepen.io/marekk3301/pen/rpvaaR
+   +  https://codepen.io/siggiarni/pen/gEKBVy
