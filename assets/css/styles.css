@@ -304,7 +304,7 @@ footer {
 }
 
 footer {
-  margin-top: 300px;
+  margin-top: 150px;
 }
 
 .badge {
@@ -538,4 +538,72 @@ a:hover {
   .cp-card .card-right-column .stats div.value.infinity {
     font-size: 2.5rem;
   }
+}
+
+
+
+.social-media{
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+}
+.socialmediaicons{
+  display: flex;
+  background: #fceeb5;
+  height: 75px;
+  width: 75px;
+  margin: 0 15px;
+  border-radius: 8px;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  box-shadow: 6px 6px 10px -1px #d6ca9a,
+              -6px -6px 10px #ffffd0;
+  border: 1px solid rgba(0,0,0,0);
+  transition: transform 0.5s;
+}
+.socialmediaicons i{
+  font-size: 30px;
+  color: #777;
+  transition: transform 0.5s;
+}
+.socialmediaicons:hover{
+  box-shadow: inset 4px 4px 16px -1px rgba(0,0,0,0.2),
+            inset  -4px -4px 16px rgba(255,255,255,0.7),
+            -0.5px -0.5px 0px rgba(255,255,255,1),
+            0.5px 0.5px 0px rgba(0,0,0,0.15),
+            0px 12px 10px -10px rgba(0,0,0,0.5);
+            border: 1px solid rgba(0,0,0,0.1);
+
+  transform: translateY(2px);          
+}
+.socialmediaicons:hover i{
+  transform: scale(0.90);
+}
+.socialmediaicons:hover .fa-instagram{
+  color: #f14843;
+}
+.socialmediaicons:hover .fa-facebook{
+  color: #3b5998;
+}
+.socialmediaicons:hover .fa-whatsapp{
+  color: #4fce5d;
+}
+.socialmediaicons:hover .fa-twitter{
+  color: #00acee;
+}
+.socialmediaicons:hover .fa-envelope{
+  color: #34a853;
+}
+@media only screen and (max-width: 600px) {
+    
+  .socialmediaicons{
+      margin: 10px;
+      width: 60px;
+      height: 60px;
+  }
+  .socialmediaicons i{
+      font-size: 20px;
+  }
+
 }
